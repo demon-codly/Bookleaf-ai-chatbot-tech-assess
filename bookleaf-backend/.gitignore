@@ -1,0 +1,5 @@
+node_modules/
+.env
+chroma_db/
+data/knowledge_base.txt
+*.log
